@@ -22,8 +22,3 @@ It includes essential authentication features such as:
 | Hibernate / JPA | ORM |
 | MySQL | Database |
 | BCrypt | Password hashing |
-
----
-
-## 📂 Project Structure (Important Files)
-
